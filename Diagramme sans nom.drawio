@@ -102,7 +102,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nbVzRymOYpDWNmocSjGA-39" parent="1" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
-          <mxGeometry height="70" width="70" x="273" y="630" as="geometry" />
+          <mxGeometry height="70" width="70" x="273" y="620" as="geometry" />
         </mxCell>
         <mxCell id="nbVzRymOYpDWNmocSjGA-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=13;" value="En attente de traitement du flux de commande" vertex="1">
           <mxGeometry height="60" width="160" x="353" y="630" as="geometry" />
