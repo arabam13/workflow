@@ -92,7 +92,10 @@
           <mxGeometry height="80" width="80" x="635" y="610" as="geometry" />
         </mxCell>
         <mxCell id="nbVzRymOYpDWNmocSjGA-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Enregistrer les informations sur la demande de formation créée par le CPF" vertex="1">
-          <mxGeometry height="60" width="185" x="220" y="585" as="geometry" />
+          <mxGeometry height="100" width="210" x="220" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="nbVzRymOYpDWNmocSjGA-37" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.script;" value="" vertex="1">
+          <mxGeometry height="15" width="20" x="225" y="580" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
