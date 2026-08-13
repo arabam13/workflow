@@ -1,0 +1,46 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="l7cPtZ6jcSl8ueL9WNOl">
+    <mxGraphModel dx="1136" dy="740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="L1u_gB3DpER6U0uZgors-12" edge="1" parent="1" source="L1u_gB3DpER6U0uZgors-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L1u_gB3DpER6U0uZgors-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;fillColor=#60a917;fontColor=light-dark(#000000, #121212);strokeColor=#2D7600;" value="Début" vertex="1">
+          <mxGeometry height="100" width="100" x="60" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="L1u_gB3DpER6U0uZgors-2" edge="1" parent="1" source="L1u_gB3DpER6U0uZgors-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="L1u_gB3DpER6U0uZgors-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L1u_gB3DpER6U0uZgors-13" edge="1" parent="1" source="L1u_gB3DpER6U0uZgors-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="135" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L1u_gB3DpER6U0uZgors-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="Vérifier les critères&amp;nbsp; du salarié et renvoyer le solde de point dispobible" vertex="1">
+          <mxGeometry height="110" width="160" x="240" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="L1u_gB3DpER6U0uZgors-5" parent="1" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.human_intelligence_tasks_hit;fillColor=#ACACAC;gradientColor=none;" value="" vertex="1">
+          <mxGeometry height="25.5" width="30" x="240" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="L1u_gB3DpER6U0uZgors-11" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" value="" vertex="1">
+          <mxGeometry height="70" width="100" x="550" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="L1u_gB3DpER6U0uZgors-14" parent="1" style="shape=stencil(fZbdcgIhDIWfZm8zQAg/17Z9j85U606tdqz9e/tmZ0c0uJ47xP0I5JwEBl59bp8/1kNwn6fj4W39M76ctgM/DCGM++36OJ50NPDjwKvN4bh+PR6+9i/z74/n6ctp9H74nlb4nbmSKZeJCu5vngmZ6jzzNAO7cX8FVKEsBuBKrgKg9oAE8gkCbLeUhEoEQKSUDZDLeWYRKIl8MEDRmHwfyBrBG6Amyu4+kDxxMoB3jhwgYu7TVAsVkFcWCs4CTBEoF4RctKeOxHIf8IXYpikHikAIf+MNUW94AGSSaoAoFIE3AlOyeWU+p2E5S9yfQZcQILVuQOwZdJNoS9Ls3wA5u2XZTIHECqeJ9kDpSaauRiNVcAY1QhdBzeLBli5WazpkSsBLV25uRaqWRyFawTQzRRIQYirJzq5atkBqLfouwqUxLBepthWb10vrWZY6UOAeyKCCtDV625mm9gmUC4Wc3VLJMMIE1BsA2FW9JraVlQB7n3c9oMKhCLEvIM1zBPZ25/umNQ1tVEC2G+fFCC8g398O2hNQuQlVu752DBfA+q0ptnqO5JFmeuIuo9DY7KjY71UxdJV4EntifPWorW++R/dC4t7V3DlIB5cHx2bc7eb3yvX//QNFp+bHDT/+Aw==);lineShape=1;strokeColor=default;" value="" vertex="1">
+          <mxGeometry height="5.48851319571494" width="5.497105614253462" x="595.060336515045" y="177.93174254081305" as="geometry" />
+        </mxCell>
+        <mxCell id="L1u_gB3DpER6U0uZgors-17" edge="1" parent="1" source="L1u_gB3DpER6U0uZgors-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L1u_gB3DpER6U0uZgors-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=none;" value="Demande acceptée" vertex="1">
+          <mxGeometry height="60" width="120" x="540" y="170" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
