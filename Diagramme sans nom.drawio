@@ -275,7 +275,7 @@
         <mxCell id="dcYhL-gkaBSRG8VYr4sn-73" edge="1" parent="1" source="dcYhL-gkaBSRG8VYr4sn-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dcYhL-gkaBSRG8VYr4sn-69" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dcYhL-gkaBSRG8VYr4sn-70" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" value="&lt;font face=&quot;Helvetica&quot;&gt;Notifier la MOA et le métier&lt;/font&gt;" vertex="1">
+        <mxCell id="dcYhL-gkaBSRG8VYr4sn-70" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" value="&lt;font face=&quot;Helvetica&quot;&gt;Notifier la MOA et le CGM par mail&lt;/font&gt;" vertex="1">
           <mxGeometry height="80" width="210" x="-671.5" y="1664" as="geometry" />
         </mxCell>
         <mxCell id="dcYhL-gkaBSRG8VYr4sn-71" parent="1" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.human_intelligence_tasks_hit;fillColor=#ACACAC;gradientColor=none;strokeColor=default;" value="" vertex="1">
