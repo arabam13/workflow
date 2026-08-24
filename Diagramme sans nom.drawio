@@ -120,7 +120,7 @@
             <mxPoint x="-299" y="1506" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0gGi06hoUtAO2IwdxjOV-42" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" value="Enregistrer les infos de fin de formation et &lt;b&gt;débiter&lt;/b&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;font&gt;&amp;nbsp;&lt;b&gt;une partie&lt;br&gt;des points déjà bloqués&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="0gGi06hoUtAO2IwdxjOV-42" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" value="Enregistrer les infos de fin de formation et &lt;b&gt;débiter&lt;/b&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;font&gt;&lt;b&gt;&amp;nbsp;une&lt;br/&gt;partie ou de tous les points bloqués&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="80" width="210" x="-389.5" y="1426" as="geometry" />
         </mxCell>
         <mxCell id="0gGi06hoUtAO2IwdxjOV-43" parent="1" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.human_intelligence_tasks_hit;fillColor=#ACACAC;gradientColor=none;strokeColor=default;" value="" vertex="1">
