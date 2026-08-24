@@ -93,6 +93,11 @@
             <mxPoint x="-577.2745074103859" y="1283.4117575252758" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="dcYhL-gkaBSRG8VYr4sn-105" edge="1" parent="1" source="0gGi06hoUtAO2IwdxjOV-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="488.33329503676487" y="1286.7058967141545" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="0gGi06hoUtAO2IwdxjOV-32" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;strokeColor=default;" value="" vertex="1">
           <mxGeometry height="80" width="90" x="-206" y="1166" as="geometry" />
         </mxCell>
@@ -310,6 +315,48 @@
         </mxCell>
         <mxCell id="dcYhL-gkaBSRG8VYr4sn-85" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" value="&lt;font face=&quot;Helvetica&quot;&gt;Notifier le client par &lt;b&gt;mail&amp;nbsp;&lt;/b&gt;N8003M&lt;br&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;pour clôture de demande et actualisation du &lt;b&gt;solde CPP&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="80" width="210" x="-108.25" y="1778" as="geometry" />
+        </mxCell>
+        <mxCell id="dcYhL-gkaBSRG8VYr4sn-89" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Minimalisticons-2050/hourglass-1423.svg" value="" vertex="1">
+          <mxGeometry height="42" width="42" x="470" y="1296" as="geometry" />
+        </mxCell>
+        <mxCell id="dcYhL-gkaBSRG8VYr4sn-104" edge="1" parent="1" source="dcYhL-gkaBSRG8VYr4sn-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dcYhL-gkaBSRG8VYr4sn-93" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dcYhL-gkaBSRG8VYr4sn-91" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;" value="Aprés 5 ans" vertex="1">
+          <mxGeometry height="32" width="181" x="427" y="1346" as="geometry" />
+        </mxCell>
+        <mxCell id="dcYhL-gkaBSRG8VYr4sn-92" edge="1" parent="1" source="dcYhL-gkaBSRG8VYr4sn-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dcYhL-gkaBSRG8VYr4sn-96" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dcYhL-gkaBSRG8VYr4sn-93" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" value="Enregistrer les infos de fin de formation et &lt;b&gt;débloquer &lt;/b&gt;les points&amp;nbsp;&lt;font face=&quot;Helvetica&quot;&gt;&lt;font&gt;&lt;b&gt;liés à la demande&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="210" x="412.5" y="1426" as="geometry" />
+        </mxCell>
+        <mxCell id="dcYhL-gkaBSRG8VYr4sn-94" parent="1" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.human_intelligence_tasks_hit;fillColor=#ACACAC;gradientColor=none;strokeColor=default;" value="" vertex="1">
+          <mxGeometry height="30" width="32.5" x="409" y="1416" as="geometry" />
+        </mxCell>
+        <mxCell id="dcYhL-gkaBSRG8VYr4sn-95" edge="1" parent="1" source="dcYhL-gkaBSRG8VYr4sn-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dcYhL-gkaBSRG8VYr4sn-100" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dcYhL-gkaBSRG8VYr4sn-96" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" value="Mettre à jour le statut du dossier" vertex="1">
+          <mxGeometry height="80" width="210" x="412.5" y="1550" as="geometry" />
+        </mxCell>
+        <mxCell id="dcYhL-gkaBSRG8VYr4sn-97" parent="1" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.human_intelligence_tasks_hit;fillColor=#ACACAC;gradientColor=none;strokeColor=default;" value="" vertex="1">
+          <mxGeometry height="30" width="32.5" x="409" y="1544" as="geometry" />
+        </mxCell>
+        <mxCell id="dcYhL-gkaBSRG8VYr4sn-98" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=default;direction=south;" value="fin" vertex="1">
+          <mxGeometry height="80" width="80" x="478.25" y="1893" as="geometry" />
+        </mxCell>
+        <mxCell id="dcYhL-gkaBSRG8VYr4sn-99" edge="1" parent="1" source="dcYhL-gkaBSRG8VYr4sn-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dcYhL-gkaBSRG8VYr4sn-102" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dcYhL-gkaBSRG8VYr4sn-100" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" value="&lt;font face=&quot;Helvetica&quot;&gt;Notifier le client par &lt;b&gt;courrier&amp;nbsp;N8017P&lt;/b&gt;&lt;br&gt;pour&amp;nbsp;&lt;/font&gt;clôture de demande et &lt;font face=&quot;Helvetica&quot;&gt;actualisation du &lt;b&gt;solde CPP&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="77" width="213.5" x="410.75" y="1664" as="geometry" />
+        </mxCell>
+        <mxCell id="dcYhL-gkaBSRG8VYr4sn-101" edge="1" parent="1" source="dcYhL-gkaBSRG8VYr4sn-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dcYhL-gkaBSRG8VYr4sn-98" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dcYhL-gkaBSRG8VYr4sn-102" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" value="&lt;font face=&quot;Helvetica&quot;&gt;Notifier le client par &lt;b&gt;mail&amp;nbsp;&lt;/b&gt;N8003M&lt;br&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;pour clôture de demande et actualisation du &lt;b&gt;solde CPP&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="210" x="412.5" y="1776" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
