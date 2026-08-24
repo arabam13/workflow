@@ -200,7 +200,7 @@
         <mxCell id="dcYhL-gkaBSRG8VYr4sn-40" edge="1" parent="1" source="dcYhL-gkaBSRG8VYr4sn-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dcYhL-gkaBSRG8VYr4sn-34" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dcYhL-gkaBSRG8VYr4sn-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;" value="&lt;font face=&quot;Helvetica&quot;&gt;Attente&amp;nbsp;&lt;b&gt;Annulation&lt;br&gt;Totale&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="dcYhL-gkaBSRG8VYr4sn-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;" value="&lt;font face=&quot;Helvetica&quot;&gt;Attente&amp;nbsp;&lt;b&gt;Formation Rejetée&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="32" width="181" x="-657" y="1352" as="geometry" />
         </mxCell>
         <mxCell id="dcYhL-gkaBSRG8VYr4sn-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" value="Enregistrer les infos de fin de formation et &lt;b&gt;débloquer &lt;/b&gt;les points" vertex="1">
