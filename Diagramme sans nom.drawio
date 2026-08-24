@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="UAdnwyQPH6AgcmF1BSok">
-    <mxGraphModel dx="1963" dy="740" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2742" dy="1048" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -328,7 +328,7 @@
         <mxCell id="dcYhL-gkaBSRG8VYr4sn-92" edge="1" parent="1" source="dcYhL-gkaBSRG8VYr4sn-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dcYhL-gkaBSRG8VYr4sn-96" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dcYhL-gkaBSRG8VYr4sn-93" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" value="Enregistrer les infos de fin de formation et &lt;b&gt;débloquer &lt;/b&gt;les points&amp;nbsp;&lt;font face=&quot;Helvetica&quot;&gt;&lt;font&gt;&lt;b&gt;liés à la demande&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="dcYhL-gkaBSRG8VYr4sn-93" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" value="&lt;b&gt;Débloquer &lt;/b&gt;les points&amp;nbsp;&lt;font face=&quot;Helvetica&quot;&gt;&lt;font&gt;&lt;b&gt;liés à la demande&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="80" width="210" x="412.5" y="1426" as="geometry" />
         </mxCell>
         <mxCell id="dcYhL-gkaBSRG8VYr4sn-94" parent="1" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.human_intelligence_tasks_hit;fillColor=#ACACAC;gradientColor=none;strokeColor=default;" value="" vertex="1">
