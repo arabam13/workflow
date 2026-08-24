@@ -114,7 +114,7 @@
         <mxCell id="dcYhL-gkaBSRG8VYr4sn-53" edge="1" parent="1" source="0gGi06hoUtAO2IwdxjOV-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dcYhL-gkaBSRG8VYr4sn-46" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0gGi06hoUtAO2IwdxjOV-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" value="Enregistrer les infos de fin de formation et &lt;b&gt;décrémenter&amp;nbsp;&lt;/b&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;font&gt;&lt;b&gt;une partie&lt;br&gt;des points déjà bloqués&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="0gGi06hoUtAO2IwdxjOV-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" value="Enregistrer les infos de fin de formation et &lt;b&gt;décrémenter&amp;nbsp;&lt;/b&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;font&gt;&lt;b&gt;une partie&lt;br&gt;des points déjà bloqués&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;font&gt;&lt;b&gt;liés à la demande&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="80" width="210" x="-108.5" y="1426" as="geometry" />
         </mxCell>
         <mxCell id="0gGi06hoUtAO2IwdxjOV-40" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=default;direction=south;" value="fin" vertex="1">
@@ -188,7 +188,7 @@
         <mxCell id="dcYhL-gkaBSRG8VYr4sn-52" edge="1" parent="1" source="dcYhL-gkaBSRG8VYr4sn-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dcYhL-gkaBSRG8VYr4sn-43" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dcYhL-gkaBSRG8VYr4sn-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" value="Enregistrer les infos de fin de formation et &lt;b&gt;débloquer &lt;/b&gt;les points" vertex="1">
+        <mxCell id="dcYhL-gkaBSRG8VYr4sn-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" value="Enregistrer les infos de fin de formation et &lt;b&gt;débloquer &lt;/b&gt;les points&amp;nbsp;&lt;font face=&quot;Helvetica&quot;&gt;&lt;font&gt;&lt;b&gt;liés à la demande&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="80" width="210" x="153.5" y="1426" as="geometry" />
         </mxCell>
         <mxCell id="dcYhL-gkaBSRG8VYr4sn-21" parent="1" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.human_intelligence_tasks_hit;fillColor=#ACACAC;gradientColor=none;strokeColor=default;" value="" vertex="1">
