@@ -218,6 +218,24 @@
         <mxCell id="dcYhL-gkaBSRG8VYr4sn-44" parent="1" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.human_intelligence_tasks_hit;fillColor=#ACACAC;gradientColor=none;strokeColor=default;" value="" vertex="1">
           <mxGeometry height="30" width="32.5" x="162" y="1544" as="geometry" />
         </mxCell>
+        <mxCell id="dcYhL-gkaBSRG8VYr4sn-46" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" value="Mettre à jour le statut du dossier" vertex="1">
+          <mxGeometry height="80" width="210" x="-104" y="1552" as="geometry" />
+        </mxCell>
+        <mxCell id="dcYhL-gkaBSRG8VYr4sn-47" parent="1" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.human_intelligence_tasks_hit;fillColor=#ACACAC;gradientColor=none;strokeColor=default;" value="" vertex="1">
+          <mxGeometry height="30" width="32.5" x="-107.5" y="1544" as="geometry" />
+        </mxCell>
+        <mxCell id="dcYhL-gkaBSRG8VYr4sn-48" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" value="Mettre à jour le statut du dossier" vertex="1">
+          <mxGeometry height="80" width="210" x="-387" y="1550" as="geometry" />
+        </mxCell>
+        <mxCell id="dcYhL-gkaBSRG8VYr4sn-49" parent="1" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.human_intelligence_tasks_hit;fillColor=#ACACAC;gradientColor=none;strokeColor=default;" value="" vertex="1">
+          <mxGeometry height="30" width="32.5" x="-387" y="1544" as="geometry" />
+        </mxCell>
+        <mxCell id="dcYhL-gkaBSRG8VYr4sn-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" value="Mettre à jour le statut du dossier" vertex="1">
+          <mxGeometry height="80" width="210" x="-676" y="1552" as="geometry" />
+        </mxCell>
+        <mxCell id="dcYhL-gkaBSRG8VYr4sn-51" parent="1" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.human_intelligence_tasks_hit;fillColor=#ACACAC;gradientColor=none;strokeColor=default;" value="" vertex="1">
+          <mxGeometry height="30" width="32.5" x="-676" y="1546" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
