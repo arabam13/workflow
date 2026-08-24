@@ -287,7 +287,7 @@
           <mxGeometry height="30" width="32.5" x="-663.5" y="1886" as="geometry" />
         </mxCell>
         <mxCell id="dcYhL-gkaBSRG8VYr4sn-74" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=default;direction=south;" value="fin" vertex="1">
-          <mxGeometry height="80" width="80" x="219.25" y="1893" as="geometry" />
+          <mxGeometry height="80" width="80" x="218" y="1911" as="geometry" />
         </mxCell>
         <mxCell id="dcYhL-gkaBSRG8VYr4sn-79" edge="1" parent="1" source="dcYhL-gkaBSRG8VYr4sn-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dcYhL-gkaBSRG8VYr4sn-76" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -302,7 +302,7 @@
           <mxGeometry height="80" width="210" x="153.5" y="1776" as="geometry" />
         </mxCell>
         <mxCell id="dcYhL-gkaBSRG8VYr4sn-83" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=default;direction=south;" value="fin" vertex="1">
-          <mxGeometry height="80" width="80" x="-43.5" y="1897" as="geometry" />
+          <mxGeometry height="80" width="80" x="-43.25" y="1903" as="geometry" />
         </mxCell>
         <mxCell id="dcYhL-gkaBSRG8VYr4sn-87" edge="1" parent="1" source="dcYhL-gkaBSRG8VYr4sn-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dcYhL-gkaBSRG8VYr4sn-85" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -344,7 +344,7 @@
           <mxGeometry height="30" width="32.5" x="409" y="1544" as="geometry" />
         </mxCell>
         <mxCell id="dcYhL-gkaBSRG8VYr4sn-98" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=default;direction=south;" value="fin" vertex="1">
-          <mxGeometry height="80" width="80" x="478.25" y="1893" as="geometry" />
+          <mxGeometry height="80" width="80" x="477.5" y="1907" as="geometry" />
         </mxCell>
         <mxCell id="dcYhL-gkaBSRG8VYr4sn-99" edge="1" parent="1" source="dcYhL-gkaBSRG8VYr4sn-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dcYhL-gkaBSRG8VYr4sn-102" value="">
           <mxGeometry relative="1" as="geometry" />
