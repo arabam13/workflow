@@ -82,7 +82,7 @@
         <mxCell id="0gGi06hoUtAO2IwdxjOV-29" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;fillColor=#e6d0de;strokeColor=default;gradientColor=#d5739d;" value="" vertex="1">
           <mxGeometry height="60" width="90" x="-337.5" y="1286" as="geometry" />
         </mxCell>
-        <mxCell id="0gGi06hoUtAO2IwdxjOV-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;" value="Attente&amp;nbsp;&lt;font face=&quot;Helvetica&quot;&gt;&lt;font&gt;&lt;b&gt;Annulation&lt;br/&gt;partielle&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="0gGi06hoUtAO2IwdxjOV-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;" value="Attente&lt;font face=&quot;Helvetica&quot;&gt;&lt;b&gt;&amp;nbsp;Formation&lt;br&gt;terminée&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="28" width="188" x="-387" y="1356" as="geometry" />
         </mxCell>
         <mxCell id="0gGi06hoUtAO2IwdxjOV-31" parent="1" style="whiteSpace=wrap;html=1;dashed=1;strokeColor=none;" value="Attente d&#39;un envoi d&#39;un signal" vertex="1">
@@ -97,8 +97,8 @@
         <mxCell id="0gGi06hoUtAO2IwdxjOV-34" edge="1" parent="1" source="0gGi06hoUtAO2IwdxjOV-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=45;entryDy=0;entryPerimeter=0;strokeColor=default;" target="0gGi06hoUtAO2IwdxjOV-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0gGi06hoUtAO2IwdxjOV-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;" value="&lt;font face=&quot;Helvetica&quot;&gt;Attente&amp;nbsp;&lt;b&gt;Annulation&lt;br&gt;totale&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="37" width="179" x="-94" y="1352" as="geometry" />
+        <mxCell id="0gGi06hoUtAO2IwdxjOV-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;" value="Attente&amp;nbsp;&lt;font face=&quot;Helvetica&quot;&gt;&lt;font&gt;&lt;b&gt;Annulation&lt;br&gt;partielle&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="32" width="181" x="-94" y="1352" as="geometry" />
         </mxCell>
         <mxCell id="0gGi06hoUtAO2IwdxjOV-36" edge="1" parent="1" source="0gGi06hoUtAO2IwdxjOV-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=45;entryDy=0;entryPerimeter=0;strokeColor=default;" target="0gGi06hoUtAO2IwdxjOV-33">
           <mxGeometry relative="1" as="geometry" />
@@ -106,7 +106,7 @@
         <mxCell id="dcYhL-gkaBSRG8VYr4sn-15" edge="1" parent="1" source="0gGi06hoUtAO2IwdxjOV-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="0gGi06hoUtAO2IwdxjOV-39" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0gGi06hoUtAO2IwdxjOV-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" value="Enregistrer les infos de fin de formation et &lt;b&gt;débloquer &lt;/b&gt;les points" vertex="1">
+        <mxCell id="0gGi06hoUtAO2IwdxjOV-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" value="Enregistrer les infos de fin de formation et &lt;b&gt;débiter&lt;/b&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;font&gt;&amp;nbsp;&lt;b&gt;une partie&lt;br&gt;des points déjà bloqués&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="80" width="210" x="-100" y="1426" as="geometry" />
         </mxCell>
         <mxCell id="0gGi06hoUtAO2IwdxjOV-39" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=default;direction=west;" value="fin" vertex="1">
@@ -175,6 +175,30 @@
         </mxCell>
         <mxCell id="0gGi06hoUtAO2IwdxjOV-63" parent="1" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.human_intelligence_tasks_hit;fillColor=#ACACAC;gradientColor=none;strokeColor=default;" value="" vertex="1">
           <mxGeometry height="30" width="32.5" x="-262.5" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="dcYhL-gkaBSRG8VYr4sn-16" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;fillColor=#e6d0de;strokeColor=default;gradientColor=#d5739d;" value="" vertex="1">
+          <mxGeometry height="60" width="90" x="201.5" y="1286" as="geometry" />
+        </mxCell>
+        <mxCell id="dcYhL-gkaBSRG8VYr4sn-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;" value="&lt;font face=&quot;Helvetica&quot;&gt;Attente&amp;nbsp;&lt;b&gt;Annulation&lt;br&gt;totale&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="32" width="181" x="168" y="1352" as="geometry" />
+        </mxCell>
+        <mxCell id="dcYhL-gkaBSRG8VYr4sn-18" edge="1" parent="1" source="dcYhL-gkaBSRG8VYr4sn-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dcYhL-gkaBSRG8VYr4sn-20" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dcYhL-gkaBSRG8VYr4sn-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" value="Enregistrer les infos de fin de formation et &lt;b&gt;débloquer &lt;/b&gt;les points" vertex="1">
+          <mxGeometry height="80" width="210" x="162" y="1426" as="geometry" />
+        </mxCell>
+        <mxCell id="dcYhL-gkaBSRG8VYr4sn-20" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=default;direction=west;" value="fin" vertex="1">
+          <mxGeometry height="80" width="80" x="227" y="1553" as="geometry" />
+        </mxCell>
+        <mxCell id="dcYhL-gkaBSRG8VYr4sn-21" parent="1" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.human_intelligence_tasks_hit;fillColor=#ACACAC;gradientColor=none;strokeColor=default;" value="" vertex="1">
+          <mxGeometry height="30" width="32.5" x="162" y="1416" as="geometry" />
+        </mxCell>
+        <mxCell id="dcYhL-gkaBSRG8VYr4sn-22" edge="1" parent="1" source="dcYhL-gkaBSRG8VYr4sn-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.453;entryY=0.057;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;" target="dcYhL-gkaBSRG8VYr4sn-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dcYhL-gkaBSRG8VYr4sn-23" edge="1" parent="1" source="0gGi06hoUtAO2IwdxjOV-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=45;entryDy=0;entryPerimeter=0;" target="dcYhL-gkaBSRG8VYr4sn-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
